@@ -10,7 +10,7 @@ To use the Roman Fact skill, try saying...
 
 You can ask the app for a daily fact about Roman history.
 
-# Skill Details
+## Skill Details
 
 Invocation Name: roman facts
 Category: null
