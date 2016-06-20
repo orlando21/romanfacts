@@ -1,3 +1,13 @@
-# Roman History Facts Skill
+# Roman History Fact Skill
 
-This is an Alexa skill about ancient Roman history facts.
+This is a fact trivia skill about ancient Roman history developed for the [Amazon Alexa](https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E).
+
+To use the Roman Fact skill, try saying...
+
+- Alexa, ask Roman facts
+
+- Alexa, start Roman facts
+
+- Alexa, start Roman facts and tell me something
+
+Just ask the app for a daily fact about Roman history.
