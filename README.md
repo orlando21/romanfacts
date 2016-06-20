@@ -6,8 +6,15 @@ To use the Roman Fact skill, try saying...
 
 - Alexa, ask Roman facts
 
-- Alexa, start Roman facts
-
 - Alexa, start Roman facts and tell me something
 
-Just ask the app for a daily fact about Roman history.
+You can ask the app for a daily fact about Roman history.
+
+# Skill Details
+
+Invocation Name: roman facts
+Category: null
+ID: amzn1.echo-sdk-ams.app.b4560089-88bf-4e7e-add9-71171363ff70
+ASIN: B01H41ZHMI
+Release Date: June 16, 2016 @ 08:15:32
+In-App Purchasing: No
